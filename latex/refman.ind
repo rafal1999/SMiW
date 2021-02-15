@@ -1,0 +1,154 @@
+\begin{theindex}
+
+  \item {ADCinit}
+    \subitem {main.c}, \hyperpage{3}
+
+  \indexspace
+
+  \item {checkShutterPosition}
+    \subitem {motor.c}, \hyperpage{6}
+    \subitem {motor.h}, \hyperpage{12}
+
+  \indexspace
+
+  \item {definitions.h}, \hyperpage{3}
+
+  \indexspace
+
+  \item {EEPROMread}
+    \subitem {motor.c}, \hyperpage{6}
+    \subitem {motor.h}, \hyperpage{12}
+  \item {EEPROMwrite}
+    \subitem {motor.c}, \hyperpage{6}
+    \subitem {motor.h}, \hyperpage{13}
+  \item {externalInterruptsInit}
+    \subitem {main.c}, \hyperpage{4}
+
+  \indexspace
+
+  \item {isMotorRunning}
+    \subitem {motor.c}, \hyperpage{7}
+    \subitem {motor.h}, \hyperpage{13}
+  \item {isMotorRunningDown}
+    \subitem {motor.c}, \hyperpage{7}
+    \subitem {motor.h}, \hyperpage{13}
+  \item {isMotorRunningUp}
+    \subitem {motor.c}, \hyperpage{7}
+    \subitem {motor.h}, \hyperpage{13}
+  \item {ISR}
+    \subitem {main.c}, \hyperpage{4}
+    \subitem {motor.c}, \hyperpage{7, 8}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.c}, \hyperpage{4}
+  \item {main.c}, \hyperpage{3}
+    \subitem {ADCinit}, \hyperpage{3}
+    \subitem {externalInterruptsInit}, \hyperpage{4}
+    \subitem {ISR}, \hyperpage{4}
+    \subitem {main}, \hyperpage{4}
+    \subitem {portInit}, \hyperpage{4}
+    \subitem {timersInit}, \hyperpage{5}
+  \item {motor.c}, \hyperpage{5}
+    \subitem {checkShutterPosition}, \hyperpage{6}
+    \subitem {EEPROMread}, \hyperpage{6}
+    \subitem {EEPROMwrite}, \hyperpage{6}
+    \subitem {isMotorRunning}, \hyperpage{7}
+    \subitem {isMotorRunningDown}, \hyperpage{7}
+    \subitem {isMotorRunningUp}, \hyperpage{7}
+    \subitem {ISR}, \hyperpage{7, 8}
+    \subitem {motorDown}, \hyperpage{8}
+    \subitem {motorDownAsLongAs}, \hyperpage{8}
+    \subitem {motorOff}, \hyperpage{8}
+    \subitem {motorUp}, \hyperpage{8}
+    \subitem {motorUpASLongAS}, \hyperpage{9}
+    \subitem {restoreShutterPosition}, \hyperpage{9}
+    \subitem {saveShutterPosition}, \hyperpage{9}
+    \subitem {timer0\_Off}, \hyperpage{9}
+    \subitem {timer0\_On}, \hyperpage{10}
+    \subitem {timer2\_Off}, \hyperpage{10}
+    \subitem {timer2\_On}, \hyperpage{10}
+    \subitem {ventilationPosition}, \hyperpage{10}
+  \item {motor.h}, \hyperpage{11}
+    \subitem {checkShutterPosition}, \hyperpage{12}
+    \subitem {EEPROMread}, \hyperpage{12}
+    \subitem {EEPROMwrite}, \hyperpage{13}
+    \subitem {isMotorRunning}, \hyperpage{13}
+    \subitem {isMotorRunningDown}, \hyperpage{13}
+    \subitem {isMotorRunningUp}, \hyperpage{13}
+    \subitem {motorDown}, \hyperpage{14}
+    \subitem {motorDownAsLongAs}, \hyperpage{14}
+    \subitem {motorOff}, \hyperpage{14}
+    \subitem {motorUp}, \hyperpage{14}
+    \subitem {motorUpASLongAS}, \hyperpage{15}
+    \subitem {restoreShutterPosition}, \hyperpage{15}
+    \subitem {saveShutterPosition}, \hyperpage{15}
+    \subitem {timer0\_Off}, \hyperpage{15}
+    \subitem {timer0\_On}, \hyperpage{16}
+    \subitem {timer0\_ticks}, \hyperpage{12}
+    \subitem {timer2\_Off}, \hyperpage{16}
+    \subitem {timer2\_On}, \hyperpage{16}
+    \subitem {timer2\_ticks}, \hyperpage{12}
+    \subitem {ventilationPosition}, \hyperpage{16}
+  \item {motorDown}
+    \subitem {motor.c}, \hyperpage{8}
+    \subitem {motor.h}, \hyperpage{14}
+  \item {motorDownAsLongAs}
+    \subitem {motor.c}, \hyperpage{8}
+    \subitem {motor.h}, \hyperpage{14}
+  \item {motorOff}
+    \subitem {motor.c}, \hyperpage{8}
+    \subitem {motor.h}, \hyperpage{14}
+  \item {motorUp}
+    \subitem {motor.c}, \hyperpage{8}
+    \subitem {motor.h}, \hyperpage{14}
+  \item {motorUpASLongAS}
+    \subitem {motor.c}, \hyperpage{9}
+    \subitem {motor.h}, \hyperpage{15}
+
+  \indexspace
+
+  \item {portInit}
+    \subitem {main.c}, \hyperpage{4}
+
+  \indexspace
+
+  \item {restoreShutterPosition}
+    \subitem {motor.c}, \hyperpage{9}
+    \subitem {motor.h}, \hyperpage{15}
+
+  \indexspace
+
+  \item {saveShutterPosition}
+    \subitem {motor.c}, \hyperpage{9}
+    \subitem {motor.h}, \hyperpage{15}
+
+  \indexspace
+
+  \item {timer0\_Off}
+    \subitem {motor.c}, \hyperpage{9}
+    \subitem {motor.h}, \hyperpage{15}
+  \item {timer0\_On}
+    \subitem {motor.c}, \hyperpage{10}
+    \subitem {motor.h}, \hyperpage{16}
+  \item {timer0\_ticks}
+    \subitem {motor.h}, \hyperpage{12}
+  \item {timer2\_Off}
+    \subitem {motor.c}, \hyperpage{10}
+    \subitem {motor.h}, \hyperpage{16}
+  \item {timer2\_On}
+    \subitem {motor.c}, \hyperpage{10}
+    \subitem {motor.h}, \hyperpage{16}
+  \item {timer2\_ticks}
+    \subitem {motor.h}, \hyperpage{12}
+  \item {timersInit}
+    \subitem {main.c}, \hyperpage{5}
+
+  \indexspace
+
+  \item {ventilationPosition}
+    \subitem {motor.c}, \hyperpage{10}
+    \subitem {motor.h}, \hyperpage{16}
+
+\end{theindex}

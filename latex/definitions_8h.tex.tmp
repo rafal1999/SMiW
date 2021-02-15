@@ -1,0 +1,91 @@
+\hypertarget{definitions_8h}{}\doxysection{definitions.\+h File Reference}
+\label{definitions_8h}\index{definitions.h@{definitions.h}}
+This graph shows which files directly or indirectly include this file\+:
+% FIG 0
+\doxysubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \mbox{\hyperlink{definitions_8h_aed3012d52817a304f06066520f2d7d2a}{V\+E\+N\+T\+I\+L\+A\+T\+I\+ON}}~1
+\item 
+\#define \mbox{\hyperlink{definitions_8h_af6fd7ae3209a69e973d9414538d75a46}{B\+A\+S\+I\+C\+\_\+\+U\+P\+\_\+\+D\+O\+WN}}~2
+\item 
+\#define \mbox{\hyperlink{definitions_8h_a08941448ea359782adb756fd4cdbe03a}{M\+O\+T\+O\+R\+\_\+\+UP}}~P\+O\+R\+T\+D7
+\item 
+\#define \mbox{\hyperlink{definitions_8h_a4a5fc1a943b790ef8545dc8d84ccdf53}{M\+O\+T\+O\+R\+\_\+\+D\+O\+WN}}~P\+O\+R\+T\+D6
+\item 
+\#define \mbox{\hyperlink{definitions_8h_a5186478b22a1b0b046cbd57423d88535}{B\+U\+T\+T\+O\+N\+\_\+\+F\+U\+L\+L\+\_\+\+UP}}~P\+I\+N\+C4
+\item 
+\#define \mbox{\hyperlink{definitions_8h_a93c1b71fbf55ed7eec8ffdee48eead5e}{B\+U\+T\+T\+O\+N\+\_\+\+F\+U\+L\+L\+\_\+\+D\+O\+WN}}~P\+I\+N\+C3
+\item 
+\#define \mbox{\hyperlink{definitions_8h_a7639b378d6f757175ed0f9e8552e6cea}{B\+U\+T\+T\+O\+N\+\_\+\+UP}}~P\+O\+R\+T\+D0
+\item 
+\#define \mbox{\hyperlink{definitions_8h_a7e8516b8781963aa69154f9fc67b658a}{B\+U\+T\+T\+O\+N\+\_\+\+D\+O\+WN}}~P\+O\+R\+T\+D1
+\item 
+\#define \mbox{\hyperlink{definitions_8h_a55e0b31a64105c8e60a8dd863458178c}{B\+U\+T\+T\+O\+N\+\_\+\+V\+E\+N\+T\+I\+L\+A\+T\+I\+ON}}~P\+I\+N\+C2
+\item 
+\#define \mbox{\hyperlink{definitions_8h_af2db934eac401629a8e7f819073b2737}{V\+E\+N\+T\+I\+L\+A\+T\+I\+O\+N\+\_\+\+P\+O\+S\+I\+T\+I\+ON}}~810
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Macro Definition Documentation}
+\mbox{\Hypertarget{definitions_8h_af6fd7ae3209a69e973d9414538d75a46}\label{definitions_8h_af6fd7ae3209a69e973d9414538d75a46}} 
+\index{definitions.h@{definitions.h}!BASIC\_UP\_DOWN@{BASIC\_UP\_DOWN}}
+\index{BASIC\_UP\_DOWN@{BASIC\_UP\_DOWN}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{BASIC\_UP\_DOWN}{BASIC\_UP\_DOWN}}
+{\footnotesize\ttfamily \#define B\+A\+S\+I\+C\+\_\+\+U\+P\+\_\+\+D\+O\+WN~2}
+
+Klasyczny tryb Pracy uC \mbox{\Hypertarget{definitions_8h_a7e8516b8781963aa69154f9fc67b658a}\label{definitions_8h_a7e8516b8781963aa69154f9fc67b658a}} 
+\index{definitions.h@{definitions.h}!BUTTON\_DOWN@{BUTTON\_DOWN}}
+\index{BUTTON\_DOWN@{BUTTON\_DOWN}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{BUTTON\_DOWN}{BUTTON\_DOWN}}
+{\footnotesize\ttfamily \#define B\+U\+T\+T\+O\+N\+\_\+\+D\+O\+WN~P\+O\+R\+T\+D1}
+
+Tak długo jak jest wciśnięcty przycisk tak długo żaluzja się zamyka \mbox{\Hypertarget{definitions_8h_a93c1b71fbf55ed7eec8ffdee48eead5e}\label{definitions_8h_a93c1b71fbf55ed7eec8ffdee48eead5e}} 
+\index{definitions.h@{definitions.h}!BUTTON\_FULL\_DOWN@{BUTTON\_FULL\_DOWN}}
+\index{BUTTON\_FULL\_DOWN@{BUTTON\_FULL\_DOWN}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{BUTTON\_FULL\_DOWN}{BUTTON\_FULL\_DOWN}}
+{\footnotesize\ttfamily \#define B\+U\+T\+T\+O\+N\+\_\+\+F\+U\+L\+L\+\_\+\+D\+O\+WN~P\+I\+N\+C3}
+
+naciśnięcie przycisku zamyka żaluzję całkowice \mbox{\Hypertarget{definitions_8h_a5186478b22a1b0b046cbd57423d88535}\label{definitions_8h_a5186478b22a1b0b046cbd57423d88535}} 
+\index{definitions.h@{definitions.h}!BUTTON\_FULL\_UP@{BUTTON\_FULL\_UP}}
+\index{BUTTON\_FULL\_UP@{BUTTON\_FULL\_UP}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{BUTTON\_FULL\_UP}{BUTTON\_FULL\_UP}}
+{\footnotesize\ttfamily \#define B\+U\+T\+T\+O\+N\+\_\+\+F\+U\+L\+L\+\_\+\+UP~P\+I\+N\+C4}
+
+naciśnięcie tego przucisku otwiera żaluzje całkowice \mbox{\Hypertarget{definitions_8h_a7639b378d6f757175ed0f9e8552e6cea}\label{definitions_8h_a7639b378d6f757175ed0f9e8552e6cea}} 
+\index{definitions.h@{definitions.h}!BUTTON\_UP@{BUTTON\_UP}}
+\index{BUTTON\_UP@{BUTTON\_UP}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{BUTTON\_UP}{BUTTON\_UP}}
+{\footnotesize\ttfamily \#define B\+U\+T\+T\+O\+N\+\_\+\+UP~P\+O\+R\+T\+D0}
+
+Tak długo jak jest wciśnięcty przycisk tak długo żaluzja się otwiera \mbox{\Hypertarget{definitions_8h_a55e0b31a64105c8e60a8dd863458178c}\label{definitions_8h_a55e0b31a64105c8e60a8dd863458178c}} 
+\index{definitions.h@{definitions.h}!BUTTON\_VENTILATION@{BUTTON\_VENTILATION}}
+\index{BUTTON\_VENTILATION@{BUTTON\_VENTILATION}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{BUTTON\_VENTILATION}{BUTTON\_VENTILATION}}
+{\footnotesize\ttfamily \#define B\+U\+T\+T\+O\+N\+\_\+\+V\+E\+N\+T\+I\+L\+A\+T\+I\+ON~P\+I\+N\+C2}
+
+przycisk wprowadza żaluzje w pozycje wentylacji \mbox{\Hypertarget{definitions_8h_a4a5fc1a943b790ef8545dc8d84ccdf53}\label{definitions_8h_a4a5fc1a943b790ef8545dc8d84ccdf53}} 
+\index{definitions.h@{definitions.h}!MOTOR\_DOWN@{MOTOR\_DOWN}}
+\index{MOTOR\_DOWN@{MOTOR\_DOWN}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{MOTOR\_DOWN}{MOTOR\_DOWN}}
+{\footnotesize\ttfamily \#define M\+O\+T\+O\+R\+\_\+\+D\+O\+WN~P\+O\+R\+T\+D6}
+
+Wyjcsie sterujące silnik zamykające żaluzje \mbox{\Hypertarget{definitions_8h_a08941448ea359782adb756fd4cdbe03a}\label{definitions_8h_a08941448ea359782adb756fd4cdbe03a}} 
+\index{definitions.h@{definitions.h}!MOTOR\_UP@{MOTOR\_UP}}
+\index{MOTOR\_UP@{MOTOR\_UP}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{MOTOR\_UP}{MOTOR\_UP}}
+{\footnotesize\ttfamily \#define M\+O\+T\+O\+R\+\_\+\+UP~P\+O\+R\+T\+D7}
+
+Wyjście sterujące silnik otwierający żaluzje \mbox{\Hypertarget{definitions_8h_aed3012d52817a304f06066520f2d7d2a}\label{definitions_8h_aed3012d52817a304f06066520f2d7d2a}} 
+\index{definitions.h@{definitions.h}!VENTILATION@{VENTILATION}}
+\index{VENTILATION@{VENTILATION}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{VENTILATION}{VENTILATION}}
+{\footnotesize\ttfamily \#define V\+E\+N\+T\+I\+L\+A\+T\+I\+ON~1}
+
+Tryb informujący uC, że wprowadza żaluzję w pozycje wentylacji \mbox{\Hypertarget{definitions_8h_af2db934eac401629a8e7f819073b2737}\label{definitions_8h_af2db934eac401629a8e7f819073b2737}} 
+\index{definitions.h@{definitions.h}!VENTILATION\_POSITION@{VENTILATION\_POSITION}}
+\index{VENTILATION\_POSITION@{VENTILATION\_POSITION}!definitions.h@{definitions.h}}
+\doxysubsubsection{\texorpdfstring{VENTILATION\_POSITION}{VENTILATION\_POSITION}}
+{\footnotesize\ttfamily \#define V\+E\+N\+T\+I\+L\+A\+T\+I\+O\+N\+\_\+\+P\+O\+S\+I\+T\+I\+ON~810}
+
+Wartość która odpowiada pozycji wentylacji żaluzji 
